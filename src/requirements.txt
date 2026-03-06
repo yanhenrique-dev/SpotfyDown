@@ -1,0 +1,12 @@
+PyGObject
+spotipy
+yt-dlp
+mutagen
+requests
+Pillow
+cryptography
+keyring
+python-dotenv
+# Dev / testing
+pytest
+pytest-mock
