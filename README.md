@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🎵 Spotify Downloader
 
@@ -7,7 +7,7 @@ com qualidade de MP3 ou FLAC, metadados automáticos e capa do álbum.
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white)
 ![GTK4](https://img.shields.io/badge/GTK-4%20%2B%20libadwaita-green?logo=gnome)
-![License](https://img.shields.io/badge/license-MIT-orange)
+![License](https://img.shields.io/badge/license-GPL--3.0-blue)
 ![Tests](https://img.shields.io/badge/tests-23%20passed-brightgreen)
 
 </div>
@@ -130,5 +130,4 @@ Este projeto é para **uso pessoal e educacional**. Certifique-se de ter direito
 
 ## 📝 Licença
 
-MIT © 2026
-]]>
+Lançado sob a licença **GNU GPLv3**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
