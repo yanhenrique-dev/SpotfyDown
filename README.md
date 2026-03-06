@@ -47,7 +47,7 @@ com qualidade de MP3 ou FLAC, metadados automáticos e capa do álbum.
 ### Clonar e executar
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SpotifyDownloader.git
+git clone https://github.com/yanhenrique-dev/SpotifyDownloader.git
 cd SpotifyDownloader
 python main.py
 ```
